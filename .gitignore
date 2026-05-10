@@ -1,0 +1,16 @@
+# --- Data Files (ممنوع تترفع عشان المساحة) ---
+*.csv
+*.zip
+*.parquet
+all_models.pkl
+all_results.pkl
+
+# --- Python Cache & Temporary Files ---
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.DS_Store
+
+# --- Streamlit Settings ---
+.streamlit/

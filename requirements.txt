@@ -1,0 +1,34 @@
+# ── OULAD Student Performance Prediction ──────────────────────────────────────
+# Core
+numpy>=1.24
+pandas>=2.0
+pyarrow>=14.0
+joblib>=1.3
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+plotly>=5.18
+kaleido>=0.2.1          # plotly → PNG export
+
+# Machine Learning
+scikit-learn>=1.4
+
+# Encoders
+category_encoders>=2.6
+
+# Imbalanced data
+imbalanced-learn>=0.12
+
+# Boosting
+xgboost>=2.0
+lightgbm>=4.3
+
+# Explainability
+shap>=0.44
+
+# Hyperparameter tuning
+optuna>=3.6
+
+# Streamlit dashboard
+streamlit>=1.35
