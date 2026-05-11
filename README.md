@@ -60,7 +60,7 @@ cd UNI-AI
 
 pip install -r requirements.txt
 
-streamlit run app.py
+streamlit run appp.py
 ```
 
 Place all OULAD CSV files inside the project root directory before running the app.
